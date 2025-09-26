@@ -51,7 +51,6 @@
 </head>
 <body class="antialiased">
 
-    <!-- Header -->
     <header class="bg-white/80 backdrop-blur-sm sticky top-0 left-0 right-0 z-50 border-b border-slate-200">
         <div class="container mx-auto px-6 py-4">
             <nav class="flex items-center justify-between">
@@ -68,88 +67,19 @@
     </header>
 
     <main>
-        <!-- Main Content Section -->
         <section class="container mx-auto px-6 pt-16 pb-16">
             <div class="max-w-4xl mx-auto">
                 <h1 class="text-4xl md:text-5xl font-bold text-slate-900 text-center mb-4">Client Success</h1>
                 <p class="text-lg text-slate-600 text-center max-w-3xl mx-auto">
-                    This is a curated selection of 20 key projects from over 2,100 successful engagements. Each case study provides a detailed look into the business challenges, my strategic approach as a manager, and the measurable impact of our work.
+                    This is a selection of key projects from over 2,100 successful engagements. Each case study provides a detailed look into the business challenges, my strategic approach as a manager, and the measurable impact of our work.
                 </p>
 
-                <!-- Case Studies Grid -->
-                <div class="mt-16 space-y-8">
-
-                    <!-- Project 1: Sharif University -->
-                    <div class="case-study-card">
-                        <div class="p-6 grid md:grid-cols-3 gap-x-8">
-                            <div class="md:col-span-1">
-                                <h3>Sharif University of Technology</h3>
-                                <p class="text-slate-500 text-sm mt-1"><strong>Industry:</strong> Education & Research<br><strong>Year:</strong> 2016</p>
-                                <p class="mt-4 text-slate-600 text-sm"><strong>About:</strong> A leading public research institution requiring robust digital infrastructure to manage its large-scale academic and administrative operations.</p>
-                            </div>
-                            <div class="md:col-span-2 text-sm text-slate-600 mt-4 md:mt-0">
-                                <h4>The Challenge</h4>
-                                <p>The university’s student services were fragmented across outdated systems, causing administrative bottlenecks and a poor user experience.</p>
-                                <h4>The Mission</h4>
-                                <p>I was tasked with leading the complete technical lifecycle for a new, large-scale portal to unify all student services onto a single, secure platform.</p>
-                                <h4>Strategy & Execution</h4>
-                                <p>I directed a team of 15+ engineers, implemented a full Agile/Scrum framework, and provided strategic oversight for the back-end architecture.</p>
-                                <h4>The Outcome</h4>
-                                <p>The project was a major success, and the processes established became the new company standard, leading to a <strong class="accent-color">40% faster project execution speed</strong> and an <strong class="accent-color">86% improvement in overall project quality</strong>.</p>
-                            </div>
-                        </div>
+                <div id="case-studies-container" class="mt-16 space-y-8">
                     </div>
-
-                    <!-- Project 2: Ghaem Hospital -->
-                     <div class="case-study-card">
-                        <div class="p-6 grid md:grid-cols-3 gap-x-8">
-                            <div class="md:col-span-1">
-                                <h3>Ghaem International Hospital</h3>
-                                <p class="text-slate-500 text-sm mt-1"><strong>Industry:</strong> Healthcare & Medical<br><strong>Year:</strong> 2022</p>
-                                <p class="mt-4 text-slate-600 text-sm"><strong>About:</strong> A modern, private medical facility where patient data security and accessible information are critical to operations.</p>
-                            </div>
-                            <div class="md:col-span-2 text-sm text-slate-600 mt-4 md:mt-0">
-                                <h4>The Challenge</h4>
-                                <p>The hospital needed to replace its outdated website with a modern, patient-centric portal for secure appointment scheduling while complying with health data regulations.</p>
-                                <h4>The Mission</h4>
-                                <p>To manage the end-to-end development of a new platform prioritizing both patient user experience and the secure handling of sensitive medical information.</p>
-                                <h4>Strategy & Execution</h4>
-                                <p>I prioritized security throughout the project lifecycle, conducting risk assessments and facilitating workshops between my technical team and the hospital's medical staff.</p>
-                                <h4>The Outcome</h4>
-                                <p>We delivered a secure, high-performance portal that streamlined the patient journey. The project was delivered on time and within budget, strengthening patient trust.</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Project 3: West Oil & Gas -->
-                     <div class="case-study-card">
-                        <div class="p-6 grid md:grid-cols-3 gap-x-8">
-                            <div class="md:col-span-1">
-                                <h3>West Oil and Gas Exploitation Co.</h3>
-                                <p class="text-slate-500 text-sm mt-1"><strong>Industry:</strong> Energy & Petrochemicals<br><strong>Year:</strong> 2020</p>
-                                <p class="mt-4 text-slate-600 text-sm"><strong>About:</strong> A key subsidiary of the National Iranian Oil Company managing critical energy infrastructure.</p>
-                            </div>
-                            <div class="md:col-span-2 text-sm text-slate-600 mt-4 md:mt-0">
-                                <h4>The Challenge</h4>
-                                <p>The company required a secure internal web platform for managing operational data, replacing an inefficient system based on spreadsheets and email.</p>
-                                <h4>The Mission</h4>
-                                <p>To lead the development of a mission-critical internal portal that would improve operational efficiency and data security, with a zero-tolerance policy for downtime.</p>
-                                <h4>Strategy & Execution</h4>
-                                <p>I implemented a phased deployment to ensure a seamless transition with no interruption to operations and worked with department heads to map complex data workflows.</p>
-                                <h4>The Outcome</h4>
-                                <p>The new platform centralized critical data, improving decision-making speed. This project was key to an initiative that led to an <strong class="accent-color">18% reduction in overall company overhead</strong>.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- ... All other 17 projects would follow this new format ... -->
-
-                </div>
             </div>
         </section>
     </main>
 
-    <!-- Footer -->
     <footer class="bg-slate-800 text-slate-300">
         <div class="container mx-auto px-6 py-8 text-center">
             <div class="flex justify-center space-x-6 mb-6">
@@ -182,6 +112,53 @@
         </div>
     </footer>
     
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const container = document.getElementById('case-studies-container');
+
+            async function loadCaseStudies() {
+                try {
+                    const response = await fetch('client-success-data.json');
+                    const caseStudies = await response.json();
+
+                    // Clear any placeholder content
+                    container.innerHTML = '';
+
+                    // Create and append the HTML for each case study
+                    caseStudies.forEach(study => {
+                        const card = document.createElement('div');
+                        card.className = 'case-study-card'; // Use the class for styling
+                        card.innerHTML = `
+                            <div class="p-6 grid md:grid-cols-3 gap-x-8">
+                                <div class="md:col-span-1">
+                                    <h3>${study.client}</h3>
+                                    <p class="text-slate-500 text-sm mt-1"><strong>Industry:</strong> ${study.industry}<br><strong>Year:</strong> ${study.year}</p>
+                                    <p class="mt-4 text-slate-600 text-sm"><strong>About:</strong> ${study.about}</p>
+                                </div>
+                                <div class="md:col-span-2 text-sm text-slate-600 mt-4 md:mt-0">
+                                    <h4>The Challenge</h4>
+                                    <p>${study.challenge}</p>
+                                    <h4>The Mission</h4>
+                                    <p>${study.mission}</p>
+                                    <h4>Strategy & Execution</h4>
+                                    <p>${study.strategy}</p>
+                                    <h4>The Outcome</h4>
+                                    <p>${study.outcome}</p>
+                                </div>
+                            </div>
+                        `;
+                        container.appendChild(card);
+                    });
+
+                } catch (error) {
+                    console.error('Error loading case studies:', error);
+                    container.innerHTML = '<p class="text-center text-slate-600">Could not load client success stories at this time.</p>';
+                }
+            }
+
+            // Initial load of the case studies
+            loadCaseStudies();
+        });
+    </script>
 </body>
 </html>
-

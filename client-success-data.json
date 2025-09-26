@@ -1,0 +1,32 @@
+[
+    {
+        "client": "Sharif University of Technology",
+        "industry": "Education & Research",
+        "year": "2016",
+        "about": "A leading public research institution requiring robust digital infrastructure to manage its large-scale academic and administrative operations.",
+        "challenge": "The university’s student services were fragmented across outdated systems, causing administrative bottlenecks and a poor user experience.",
+        "mission": "I was tasked with leading the complete technical lifecycle for a new, large-scale portal to unify all student services onto a single, secure platform.",
+        "strategy": "I directed a team of 15+ engineers, implemented a full Agile/Scrum framework, and provided strategic oversight for the back-end architecture.",
+        "outcome": "The project was a major success, and the processes established became the new company standard, leading to a <strong class=\"accent-color\">40% faster project execution speed</strong> and an <strong class=\"accent-color\">86% improvement in overall project quality</strong>."
+    },
+    {
+        "client": "Ghaem International Hospital",
+        "industry": "Healthcare & Medical",
+        "year": "2022",
+        "about": "A modern, private medical facility where patient data security and accessible information are critical to operations.",
+        "challenge": "The hospital needed to replace its outdated website with a modern, patient-centric portal for secure appointment scheduling while complying with health data regulations.",
+        "mission": "To manage the end-to-end development of a new platform prioritizing both patient user experience and the secure handling of sensitive medical information.",
+        "strategy": "I prioritized security throughout the project lifecycle, conducting risk assessments and facilitating workshops between my technical team and the hospital's medical staff.",
+        "outcome": "We delivered a secure, high-performance portal that streamlined the patient journey. The project was delivered on time and within budget, strengthening patient trust."
+    },
+    {
+        "client": "West Oil and Gas Exploitation Co.",
+        "industry": "Energy & Petrochemicals",
+        "year": "2020",
+        "about": "A key subsidiary of the National Iranian Oil Company managing critical energy infrastructure.",
+        "challenge": "The company required a secure internal web platform for managing operational data, replacing an inefficient system based on spreadsheets and email.",
+        "mission": "To lead the development of a mission-critical internal portal that would improve operational efficiency and data security, with a zero-tolerance policy for downtime.",
+        "strategy": "I implemented a phased deployment to ensure a seamless transition with no interruption to operations and worked with department heads to map complex data workflows.",
+        "outcome": "The new platform centralized critical data, improving decision-making speed. This project was key to an initiative that led to an <strong class=\"accent-color\">18% reduction in overall company overhead</strong>."
+    }
+]
