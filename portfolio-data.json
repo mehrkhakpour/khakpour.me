@@ -1,5 +1,11 @@
 [
     {
+        "customer": "Mobarakeh Steel Company",
+        "category": "Industry & Manufacturing",
+        "year": 2013,
+        "url": "https://www.mobarakehsteel.com/"
+    },
+    {
         "customer": "Isfahan Water and Wastewater Company",
         "category": "Government & NGOs",
         "year": 2020,
