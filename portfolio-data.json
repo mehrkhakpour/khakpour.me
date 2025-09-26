@@ -1,0 +1,122 @@
+[
+    {
+        "customer": "Isfahan Water and Wastewater Company",
+        "category": "Government & NGOs",
+        "year": 2020,
+        "url": "https://www.abfaesfahan.ir/"
+    },
+    {
+        "customer": "Nil Pathogenetic Laboratory",
+        "category": "Healthcare & Medical",
+        "year": 2024,
+        "url": "https://www.nillab.ir/"
+    },
+    {
+        "customer": "Sigma Academy",
+        "category": "Education & Research",
+        "year": 2023,
+        "url": "https://www.sgmacademy.com/"
+    },
+    {
+        "customer": "Emami Corp",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": 2025,
+        "url": "https://www.emamicorp.com/"
+    },
+    {
+        "customer": "Iranian Scientific Association of Hematology and Oncology",
+        "category": "Healthcare & Medical",
+        "year": 2022,
+        "url": "https://www.ismoh.org/"
+    },
+    {
+        "customer": "Iranian Rice Importers Association",
+        "category": "Finance, Business & Consulting",
+        "year": 2021,
+        "url": "https://www.iria.org.ir/"
+    },
+    {
+        "customer": "Navia Residential Towers",
+        "category": "Industry & Manufacturing",
+        "year": 2021,
+        "url": "https://www.navia.ir/"
+    },
+    {
+        "customer": "Tefal Brand in Iran",
+        "category": "E-Commerce & Retail",
+        "year": 2019,
+        "url": "https://www.tefal.ir/"
+    },
+    {
+        "customer": "Novitex Brand",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": 2023,
+        "url": "https://www.novitex.ir/"
+    },
+    {
+        "customer": "Ghaem International Hospital",
+        "category": "Healthcare & Medical",
+        "year": 2022,
+        "url": "https://www.ghaem-hospital.ir/"
+    },
+    {
+        "customer": "Shahed University of Tehran",
+        "category": "Education & Research",
+        "year": 2022,
+        "url": "https://shahed.ac.ir/"
+    },
+    {
+        "customer": "Sharif University of Technology",
+        "category": "Education & Research",
+        "year": 2016,
+        "url": "https://stu.sharif.ir/"
+    },
+    {
+        "customer": "Exom CCTV Cameras",
+        "category": "Technology & Startups",
+        "year": 2021,
+        "url": "https://www.exsom.ae/"
+    },
+    {
+        "customer": "RGM Petro Kimia Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": 2023,
+        "url": "https://www.rgmpetrokimya.com/"
+    },
+    {
+        "customer": "Stellar Process Solutions Company",
+        "category": "Technology & Startups",
+        "year": 2024,
+        "url": "https://www.stellar-om.com/"
+    },
+    {
+        "customer": "West Oil and Gas Exploitation Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": 2020,
+        "url": "https://www.wogpc.ir/"
+    },
+    {
+        "customer": "Biosun Pharmed Company",
+        "category": "Healthcare & Medical",
+        "year": 2019,
+        "url": "https://www.biosunpharmed.com/"
+    },
+    {
+        "customer": "Yek & Yek Food Industries Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": 2013,
+        "url": "https://www.1and1group.com/"
+    },
+    {
+        "customer": "National Shoe Company",
+        "category": "E-Commerce & Retail",
+        "year": 2019,
+        "url": "https://www.mellishoes.ir/"
+    },
+    {
+        "customer": "Goldaru Company",
+        "category": "Healthcare & Medical",
+        "year": 2019,
+        "url": "https://www.goldaruco.com/"
+    }
+]

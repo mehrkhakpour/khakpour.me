@@ -40,7 +40,6 @@
 </head>
 <body class="antialiased">
 
-    <!-- Header -->
     <header class="bg-white/80 backdrop-blur-sm sticky top-0 left-0 right-0 z-50 border-b border-slate-200">
         <div class="container mx-auto px-6 py-4">
             <nav class="flex items-center justify-between">
@@ -57,7 +56,6 @@
     </header>
 
     <main>
-        <!-- Main Content Section -->
         <section class="container mx-auto px-6 pt-16 pb-16">
             <div class="max-w-5xl mx-auto">
                 <h1 class="text-4xl md:text-5xl font-bold text-slate-900 text-center mb-4">My Portfolio</h1>
@@ -65,7 +63,6 @@
                     Over 20 years, I have managed the delivery of more than 2,100 projects. This is a comprehensive list showcasing the breadth of my experience across various industries. Use the filters to explore specific sectors.
                 </p>
 
-                <!-- Filter Buttons -->
                 <div id="filters" class="my-12 flex flex-wrap justify-center gap-3">
                     <button class="filter-btn active px-4 py-2 bg-slate-200 text-slate-700 rounded-full text-sm font-medium" data-filter="all">All Industries</button>
                     <button class="filter-btn px-4 py-2 bg-slate-200 text-slate-700 rounded-full text-sm font-medium" data-filter="Healthcare & Medical">Healthcare & Medical</button>
@@ -79,7 +76,6 @@
                      <button class="filter-btn px-4 py-2 bg-slate-200 text-slate-700 rounded-full text-sm font-medium" data-filter="Government & NGOs">Government & NGOs</button>
                 </div>
 
-                <!-- Portfolio Table -->
                 <div class="bg-white border border-slate-200 rounded-xl shadow-sm overflow-hidden">
                     <div class="overflow-x-auto">
                         <table class="w-full text-left project-table">
@@ -92,29 +88,7 @@
                                 </tr>
                             </thead>
                             <tbody id="portfolio-body">
-                                <!-- Data will be dynamically filtered by JS -->
-                                <tr data-category="Government & NGOs"><td class="p-4 align-middle font-medium text-slate-900">Isfahan Water and Wastewater Company</td><td class="p-4 align-middle text-slate-600">Government & NGOs</td><td class="p-4 align-middle text-center text-slate-600">2020</td><td class="p-4 align-middle text-center"><a href="https://www.abfaesfahan.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Healthcare & Medical"><td class="p-4 align-middle font-medium text-slate-900">Nil Pathogenetic Laboratory</td><td class="p-4 align-middle text-slate-600">Healthcare & Medical</td><td class="p-4 align-middle text-center text-slate-600">2024</td><td class="p-4 align-middle text-center"><a href="https://www.nillab.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Education & Research"><td class="p-4 align-middle font-medium text-slate-900">Sigma Academy</td><td class="p-4 align-middle text-slate-600">Education & Research</td><td class="p-4 align-middle text-center text-slate-600">2023</td><td class="p-4 align-middle text-center"><a href="https://www.sgmacademy.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Food, Agriculture & Consumer Goods"><td class="p-4 align-middle font-medium text-slate-900">Emami Corp</td><td class="p-4 align-middle text-slate-600">Food, Agriculture & Consumer Goods</td><td class="p-4 align-middle text-center text-slate-600">2025</td><td class="p-4 align-middle text-center"><a href="https://www.emamicorp.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Healthcare & Medical"><td class="p-4 align-middle font-medium text-slate-900">Iranian Scientific Association of Hematology and Oncology</td><td class="p-4 align-middle text-slate-600">Healthcare & Medical</td><td class="p-4 align-middle text-center text-slate-600">2022</td><td class="p-4 align-middle text-center"><a href="https://www.ismoh.org/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Finance, Business & Consulting"><td class="p-4 align-middle font-medium text-slate-900">Iranian Rice Importers Association</td><td class="p-4 align-middle text-slate-600">Finance, Business & Consulting</td><td class="p-4 align-middle text-center text-slate-600">2021</td><td class="p-4 align-middle text-center"><a href="https://www.iria.org.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Industry & Manufacturing"><td class="p-4 align-middle font-medium text-slate-900">Navia Residential Towers</td><td class="p-4 align-middle text-slate-600">Industry & Manufacturing</td><td class="p-4 align-middle text-center text-slate-600">2021</td><td class="p-4 align-middle text-center"><a href="https://www.navia.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="E-Commerce & Retail"><td class="p-4 align-middle font-medium text-slate-900">Tefal Brand in Iran</td><td class="p-4 align-middle text-slate-600">E-Commerce & Retail</td><td class="p-4 align-middle text-center text-slate-600">2019</td><td class="p-4 align-middle text-center"><a href="https://www.tefal.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Food, Agriculture & Consumer Goods"><td class="p-4 align-middle font-medium text-slate-900">Novitex Brand</td><td class="p-4 align-middle text-slate-600">Food, Agriculture & Consumer Goods</td><td class="p-4 align-middle text-center text-slate-600">2023</td><td class="p-4 align-middle text-center"><a href="https://www.novitex.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Healthcare & Medical"><td class="p-4 align-middle font-medium text-slate-900">Ghaem International Hospital</td><td class="p-4 align-middle text-slate-600">Healthcare & Medical</td><td class="p-4 align-middle text-center text-slate-600">2022</td><td class="p-4 align-middle text-center"><a href="https://www.ghaem-hospital.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Education & Research"><td class="p-4 align-middle font-medium text-slate-900">Shahed University of Tehran</td><td class="p-4 align-middle text-slate-600">Education & Research</td><td class="p-4 align-middle text-center text-slate-600">2022</td><td class="p-4 align-middle text-center"><a href="https://shahed.ac.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Education & Research"><td class="p-4 align-middle font-medium text-slate-900">Sharif University of Technology</td><td class="p-4 align-middle text-slate-600">Education & Research</td><td class="p-4 align-middle text-center text-slate-600">2016</td><td class="p-4 align-middle text-center"><a href="https://stu.sharif.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Technology & Startups"><td class="p-4 align-middle font-medium text-slate-900">Exom CCTV Cameras</td><td class="p-4 align-middle text-slate-600">Technology & Startups</td><td class="p-4 align-middle text-center text-slate-600">2021</td><td class="p-4 align-middle text-center"><a href="https://www.exsom.ae/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Energy, Oil & Petrochemicals"><td class="p-4 align-middle font-medium text-slate-900">RGM Petro Kimia Company</td><td class="p-4 align-middle text-slate-600">Energy, Oil & Petrochemicals</td><td class="p-4 align-middle text-center text-slate-600">2023</td><td class="p-4 align-middle text-center"><a href="https://www.rgmpetrokimya.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Technology & Startups"><td class="p-4 align-middle font-medium text-slate-900">Stellar Process Solutions Company</td><td class="p-4 align-middle text-slate-600">Technology & Startups</td><td class="p-4 align-middle text-center text-slate-600">2024</td><td class="p-4 align-middle text-center"><a href="https://www.stellar-om.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Energy, Oil & Petrochemicals"><td class="p-4 align-middle font-medium text-slate-900">West Oil and Gas Exploitation Company</td><td class="p-4 align-middle text-slate-600">Energy, Oil & Petrochemicals</td><td class="p-4 align-middle text-center text-slate-600">2020</td><td class="p-4 align-middle text-center"><a href="https://www.wogpc.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Healthcare & Medical"><td class="p-4 align-middle font-medium text-slate-900">Biosun Pharmed Company</td><td class="p-4 align-middle text-slate-600">Healthcare & Medical</td><td class="p-4 align-middle text-center text-slate-600">2019</td><td class="p-4 align-middle text-center"><a href="https://www.biosunpharmed.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Food, Agriculture & Consumer Goods"><td class="p-4 align-middle font-medium text-slate-900">Yek & Yek Food Industries Company</td><td class="p-4 align-middle text-slate-600">Food, Agriculture & Consumer Goods</td><td class="p-4 align-middle text-center text-slate-600">2013</td><td class="p-4 align-middle text-center"><a href="https://www.1and1group.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="E-Commerce & Retail"><td class="p-4 align-middle font-medium text-slate-900">National Shoe Company</td><td class="p-4 align-middle text-slate-600">E-Commerce & Retail</td><td class="p-4 align-middle text-center text-slate-600">2019</td><td class="p-4 align-middle text-center"><a href="https://www.mellishoes.ir/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <tr data-category="Healthcare & Medical"><td class="p-4 align-middle font-medium text-slate-900">Goldaru Company</td><td class="p-4 align-middle text-slate-600">Healthcare & Medical</td><td class="p-4 align-middle text-center text-slate-600">2019</td><td class="p-4 align-middle text-center"><a href="https://www.goldaruco.com/" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a></td></tr>
-                                <!-- Add all other projects from the PDF here with the correct 'data-category' -->
-                            </tbody>
+                                </tbody>
                         </table>
                     </div>
                 </div>
@@ -122,7 +96,6 @@
         </section>
     </main>
 
-    <!-- Footer -->
     <footer class="bg-slate-800 text-slate-300">
         <div class="container mx-auto px-6 py-8 text-center">
             <div class="flex justify-center space-x-6 mb-6">
@@ -157,26 +130,67 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function () {
+            const portfolioBody = document.getElementById('portfolio-body');
             const filterButtons = document.querySelectorAll('.filter-btn');
-            const portfolioRows = document.querySelectorAll('#portfolio-body tr');
 
-            filterButtons.forEach(button => {
-                button.addEventListener('click', function () {
-                    // Manage active state for buttons
-                    filterButtons.forEach(btn => btn.classList.remove('active'));
-                    this.classList.add('active');
+            // Function to load and display portfolio data
+            async function loadPortfolio() {
+                try {
+                    const response = await fetch('portfolio-data.json');
+                    const projects = await response.json();
 
-                    const filter = this.getAttribute('data-filter');
+                    // Clear any existing content
+                    portfolioBody.innerHTML = '';
 
-                    portfolioRows.forEach(row => {
-                        if (filter === 'all' || row.getAttribute('data-category') === filter) {
-                            row.style.display = ''; // Show row
-                        } else {
-                            row.style.display = 'none'; // Hide row
-                        }
+                    // Create and append table rows for each project
+                    projects.forEach(project => {
+                        const row = document.createElement('tr');
+                        row.setAttribute('data-category', project.category);
+                        row.innerHTML = `
+                            <td class="p-4 align-middle font-medium text-slate-900">${project.customer}</td>
+                            <td class="p-4 align-middle text-slate-600">${project.category}</td>
+                            <td class="p-4 align-middle text-center text-slate-600">${project.year}</td>
+                            <td class="p-4 align-middle text-center">
+                                <a href="${project.url}" target="_blank" rel="noopener noreferrer" class="text-[#1A6A73] hover:underline font-semibold">Visit Site</a>
+                            </td>
+                        `;
+                        portfolioBody.appendChild(row);
+                    });
+
+                    // Now that the rows are loaded, set up the filter functionality
+                    setupFilters();
+
+                } catch (error) {
+                    console.error('Error loading portfolio data:', error);
+                    portfolioBody.innerHTML = '<tr><td colspan="4" class="text-center p-8">Could not load portfolio projects.</td></tr>';
+                }
+            }
+
+            // Function to set up the filter buttons
+            function setupFilters() {
+                const portfolioRows = document.querySelectorAll('#portfolio-body tr');
+
+                filterButtons.forEach(button => {
+                    button.addEventListener('click', function () {
+                        // Manage active state for buttons
+                        filterButtons.forEach(btn => btn.classList.remove('active'));
+                        this.classList.add('active');
+
+                        const filter = this.getAttribute('data-filter');
+
+                        portfolioRows.forEach(row => {
+                            if (filter === 'all' || row.getAttribute('data-category') === filter) {
+                                row.style.display = ''; // Show row
+                            } else {
+                                row.style.display = 'none'; // Hide row
+                            }
+                        });
                     });
                 });
-            });
+            }
+
+            // Initial load of the portfolio
+            loadPortfolio();
         });
     </script>
     
