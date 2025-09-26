@@ -1,5 +1,15 @@
 [
     {
+        "client": "Mobarakeh Steel Company",
+        "industry": "Industry & Manufacturing",
+        "year": "2013",
+        "about": "",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""
+    },
+    {
         "client": "Sharif University of Technology",
         "industry": "Education & Research",
         "year": "2016",
@@ -20,13 +30,78 @@
         "outcome": "We delivered a secure, high-performance portal that streamlined the patient journey. The project was delivered on time and within budget, strengthening patient trust."
     },
     {
-        "client": "West Oil and Gas Exploitation Co.",
+        "client": "Tefal Brand in Iran",
+        "industry": "E-Commerce & Retail",
+        "year": "2019",
+        "about": "A leading e-commerce platform for the Tefal brand in Iran.",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""    },
+    {
+        "client": "Isfahan Water & Wastewater Co.",
+        "industry": "Government & NGOs",
+        "year": "2020",
+        "about": "A leading government organization for water and sewage services in Isfahan.",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""    },
+    {
+        "client": "West Oil and Gas Production Co.",
         "industry": "Energy & Petrochemicals",
         "year": "2020",
         "about": "A key subsidiary of the National Iranian Oil Company managing critical energy infrastructure.",
-        "challenge": "The company required a secure internal web platform for managing operational data, replacing an inefficient system based on spreadsheets and email.",
-        "mission": "To lead the development of a mission-critical internal portal that would improve operational efficiency and data security, with a zero-tolerance policy for downtime.",
-        "strategy": "I implemented a phased deployment to ensure a seamless transition with no interruption to operations and worked with department heads to map complex data workflows.",
-        "outcome": "The new platform centralized critical data, improving decision-making speed. This project was key to an initiative that led to an <strong class=\"accent-color\">18% reduction in overall company overhead</strong>."
-    }
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""    },
+    {
+        "client": "Sadr Tamin Company",
+        "industry": "Finance, Business & Consulting",
+        "year": "2020",
+        "about": "A leading investment holding company in Iran.",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""    },
+    {
+        "client": "National Shoe Company",
+        "industry": "E-Commerce & Retail",
+        "year": "2019",
+        "about": "One of Iran's oldest and most well-known footwear manufacturers.",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""
+    },
+    {
+        "client": "1&1 Food Industries Company",
+        "industry": "Food, Agriculture & Consumer Goods",
+        "year": "2013",
+        "about": "A major producer of canned foods, pickles, and sauces.",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""
+    },
+    {
+        "client": "Polymer & Petrochemical Institute",
+        "industry": "Energy, Oil & Petrochemicals",
+        "year": "2019",
+        "about": "A leading research institute for polymer science and technology.",
+        "challenge": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""
+    },
+    {
+        "client": "",
+        "industry": "",
+        "year": "",
+        "about": "",
+        "mission": "",
+        "strategy": "",
+        "outcome": ""
+    }    
 ]
