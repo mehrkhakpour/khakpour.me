@@ -63,11 +63,11 @@
         "client": "Sadr Tamin Company",
         "industry": "Finance, Business & Consulting",
         "year": "2020",
-        "about": "A leading investment holding company in Iran.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""
+        "about": "An investment holding company that focuses on strategic industries.",
+        "challenge": "As an investment holding company, Sadr Tamin's digital presence needed to convey trust, professionalism, and strategic insight. Their previous website was outdated and failed to clearly communicate their investment philosophy, portfolio details, and corporate governance to potential investors and financial partners, which is critical in the capital market.",
+        "mission": "My mission was to manage the development of a new corporate website that would instill investor confidence and serve as a central hub for all corporate communications. The goal was to create a secure, transparent, and professional platform that accurately reflected their stature as a significant investment firm.",
+        "strategy": "I led the project with a focus on creating a clear and professional information architecture. We designed dedicated sections for their investment portfolio, corporate news, and investor relations, making it easy for stakeholders to find financial reports and other key information. Security and reliability were top priorities throughout the development process to ensure the integrity of the information presented.",
+        "outcome": "The new website successfully elevated Sadr Tamin's corporate image, providing a trustworthy and professional digital platform for the financial community. It streamlined communication with investors and partners, ensuring that critical information was presented with clarity and credibility, thereby strengthening their position in the market."
 	},
     {
         "client": "National Shoe Company",
@@ -93,10 +93,10 @@
         "client": "Polymer & Petrochemical Institute",
         "industry": "Energy, Oil & Petrochemicals",
         "year": "2019",
-        "about": "A leading research institute for polymer science and technology.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""
+        "about": "A prominent research institute for polymer science and technology in Iran.",
+        "challenge": "The institute's digital presence was overly academic and failed to communicate its value to potential business and industry partners. It did not effectively market their commercial services, patented technologies, or consulting expertise, causing them to miss opportunities for industry collaboration and revenue.",
+        "mission": "My mission was to lead the development of a new, business-focused website that would effectively bridge the gap between academia and industry. The primary goal was to create a \"digital storefront\" to market their technological capabilities and generate leads for commercial partnerships.",
+        "strategy": "I managed the project with a focus on a B2B audience. We designed the website to clearly showcase their services, technologies available for licensing, and partnership opportunities. The user journey was designed to guide industry visitors to relevant information and encourage contact, effectively turning the website into a lead-generation tool.",
+        "outcome": "The new website successfully repositioned the institute as an industry-ready partner. It provided a professional platform to market their commercial offerings, resulting in a notable increase in inquiries from private sector companies and laying the groundwork for new, valuable industry collaborations."
     }  
 ]
