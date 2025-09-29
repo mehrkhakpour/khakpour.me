@@ -2,127 +2,997 @@
     {
         "customer": "Mobarakeh Steel Company",
         "category": "Industry & Manufacturing",
-        "year": 2013,
-        "url": "https://www.mobarakehsteel.com/"
+        "year": "2013",
+        "url": "https://www.msc.ir/"
     },
     {
         "customer": "Isfahan Water and Wastewater Company",
         "category": "Government & NGOs",
-        "year": 2020,
+        "year": "2020",
         "url": "https://www.abfaesfahan.ir/"
     },
     {
         "customer": "Nil Pathogenetic Laboratory",
         "category": "Healthcare & Medical",
-        "year": 2024,
+        "year": "2024",
         "url": "https://www.nillab.ir/"
     },
     {
         "customer": "Sigma Academy",
         "category": "Education & Research",
-        "year": 2023,
+        "year": "2023",
         "url": "https://www.sgmacademy.com/"
     },
     {
-        "customer": "Emami Corp",
-        "category": "Food, Agriculture & Consumer Goods",
-        "year": 2025,
-        "url": "https://www.emamicorp.com/"
-    },
-    {
-        "customer": "Iranian Scientific Association of Hematology and Oncology",
-        "category": "Healthcare & Medical",
-        "year": 2022,
-        "url": "https://www.ismoh.org/"
-    },
-    {
-        "customer": "Iranian Rice Importers Association",
+        "customer": "Tehran Economic Policy Think Tank",
         "category": "Finance, Business & Consulting",
-        "year": 2021,
-        "url": "https://www.iria.org.ir/"
-    },
-    {
-        "customer": "Navia Residential Towers",
-        "category": "Industry & Manufacturing",
-        "year": 2021,
-        "url": "https://www.navia.ir/"
+        "year": "2019",
+        "url": "https://www.tept.ir/"
     },
     {
         "customer": "Tefal Brand in Iran",
         "category": "E-Commerce & Retail",
-        "year": 2019,
+        "year": "2019",
         "url": "https://www.tefal.ir/"
     },
     {
-        "customer": "Novitex Brand",
+        "customer": "Motalia Food Brand",
         "category": "Food, Agriculture & Consumer Goods",
-        "year": 2023,
+        "year": "2020",
+        "url": "https://www.motalia.ir/"
+    },
+    {
+        "customer": "Novitex Brand from Kohan Shimi Arya Co.",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2023",
         "url": "https://www.novitex.ir/"
+    },
+    {
+        "customer": "Yaran-e Eshgh NGO",
+        "category": "Government & NGOs",
+        "year": "2020",
+        "url": "https://www.yaraneshgh.com/"
     },
     {
         "customer": "Ghaem International Hospital",
         "category": "Healthcare & Medical",
-        "year": 2022,
+        "year": "2022",
         "url": "https://www.ghaem-hospital.ir/"
+    },
+    {
+        "customer": "Shafa Specialized Hospital",
+        "category": "Healthcare & Medical",
+        "year": "2021",
+        "url": "https://www.shafahospital.com/"
+    },
+    {
+        "customer": "Kasra Specialized Hospital",
+        "category": "Healthcare & Medical",
+        "year": "2023",
+        "url": "https://www.kasrahospital.ir/"
+    },
+    {
+        "customer": "Polymer and Petrochemical Research Institute of Iran",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2019",
+        "url": "https://www.polymertechmart.com/"
+    },
+    {
+        "customer": "American ACE Glass Repair Shop",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://www.cultusautoglass.com/"
+    },
+    {
+        "customer": "Iranian Society of the Disabled",
+        "category": "Government & NGOs",
+        "year": "2019",
+        "url": "https://www.iransdp.com/"
+    },
+    {
+        "customer": "Asoudeh Mava Charity for the Disabled",
+        "category": "Government & NGOs",
+        "year": "2019",
+        "url": "https://www.asoodemava.org/"
     },
     {
         "customer": "Shahed University of Tehran",
         "category": "Education & Research",
-        "year": 2022,
+        "year": "2022",
         "url": "https://shahed.ac.ir/"
     },
     {
         "customer": "Sharif University of Technology",
         "category": "Education & Research",
-        "year": 2016,
+        "year": "2016",
         "url": "https://stu.sharif.ir/"
+    },
+    {
+        "customer": "Sari University of Agricultural Sciences and Natural Resources",
+        "category": "Education & Research",
+        "year": "2020",
+        "url": "https://sanru.ac.ir/"
+    },
+    {
+        "customer": "Vali-e Asr University of Rafsanjan",
+        "category": "Education & Research",
+        "year": "2020",
+        "url": "https://www.vru.ac.ir/"
     },
     {
         "customer": "Exom CCTV Cameras",
         "category": "Technology & Startups",
-        "year": 2021,
+        "year": "2021",
         "url": "https://www.exsom.ae/"
+    },
+    {
+        "customer": "Azako Travels",
+        "category": "Culture, Tourism & Services",
+        "year": "2023",
+        "url": "https://www.azakotravels.com/"
+    },
+    {
+        "customer": "Uptime Roofing Canada Company",
+        "category": "Industry & Manufacturing",
+        "year": "2024",
+        "url": "https://uptimeroofing.ca/"
+    },
+    {
+        "customer": "Azarin Akhgar Sepahan Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.azarinakhgar.com/"
     },
     {
         "customer": "RGM Petro Kimia Company",
         "category": "Energy, Oil & Petrochemicals",
-        "year": 2023,
+        "year": "2023",
         "url": "https://www.rgmpetrokimya.com/"
+    },
+    {
+        "customer": "Ara Sazeh Mehr Arang Company",
+        "category": "Industry & Manufacturing",
+        "year": "2023",
+        "url": "https://www.arasazeh.com/"
+    },
+    {
+        "customer": "Arman Sina Company",
+        "category": "Healthcare & Medical",
+        "year": "2024",
+        "url": "https://www.armansina.com/"
+    },
+    {
+        "customer": "Arman Shahr Pavan Company",
+        "category": "Technology & Startups",
+        "year": "2022",
+        "url": "https://www.pavanaco.com/"
+    },
+    {
+        "customer": "Qazvin Rasht Freeway Company",
+        "category": "Government & NGOs",
+        "year": "2020",
+        "url": "https://www.qrfreeway.ir/"
+    },
+    {
+        "customer": "Aluminat Company",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.aluminat.ir/"
+    },
+    {
+        "customer": "Iranian Alumina Company",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.iranalumina.ir/"
+    },
+    {
+        "customer": "Abrgan Sazeh Ordibehesht Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.abargan.org/"
+    },
+    {
+        "customer": "Arz al-Atfal al-Tijariyyah Company",
+        "category": "E-Commerce & Retail",
+        "year": "2024",
+        "url": "https://www.babylandonline.ae/"
+    },
+    {
+        "customer": "Arvand Arya Pishro Sanat Company",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.arvestco.com/"
     },
     {
         "customer": "Stellar Process Solutions Company",
         "category": "Technology & Startups",
-        "year": 2024,
+        "year": "2024",
         "url": "https://www.stellar-om.com/"
     },
     {
-        "customer": "West Oil and Gas Exploitation Company",
+        "customer": "Blue Waves Electronic Company",
+        "category": "Technology & Startups",
+        "year": "2021",
+        "url": "https://www.amvaje-abi.com/"
+    },
+    {
+        "customer": "Iranian Salts Company",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://www.amlah.com/"
+    },
+    {
+        "customer": "Energy Pazhouhan Ariana Company",
         "category": "Energy, Oil & Petrochemicals",
-        "year": 2020,
+        "year": "2021",
+        "url": "https://www.energyariana.com/"
+    },
+    {
+        "customer": "Energy Gostar Nasire Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2020",
+        "url": "https://www.nicc-co.com/"
+    },
+    {
+        "customer": "Iran Hormone Company",
+        "category": "Healthcare & Medical",
+        "year": "2020",
+        "url": "https://www.iranhormone.ir/"
+    },
+    {
+        "customer": "Iskra Autoelectric Iran Company",
+        "category": "Industry & Manufacturing",
+        "year": "2024",
+        "url": "https://www.iskra-iran.com/"
+    },
+    {
+        "customer": "Inoxtil Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.inoxtil.com/"
+    },
+    {
+        "customer": "Bakhtar Gostar Parsian Company",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://www.xupex.com/"
+    },
+    {
+        "customer": "Bazargan Kala Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2019",
+        "url": "https://bazargankala.com/"
+    },
+    {
+        "customer": "Intertek Qeshm International Inspection Co.",
+        "category": "Finance, Business & Consulting",
+        "year": "2021",
+        "url": "https://www.intertekqeshm.com/"
+    },
+    {
+        "customer": "Banbanak Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2021",
+        "url": "https://www.banbanak.com/"
+    },
+    {
+        "customer": "Behran Motor Golpayegan Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.behranmotor.com/"
+    },
+    {
+        "customer": "West Oil and Gas Production Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2020",
         "url": "https://www.wogpc.ir/"
+    },
+    {
+        "customer": "Saba Power Plant Operation and Maintenance Co.",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2025",
+        "url": "https://www.sabaom.ir/"
+    },
+    {
+        "customer": "Behko Company",
+        "category": "Industry & Manufacturing",
+        "year": "2018",
+        "url": "https://www.behko.com/"
     },
     {
         "customer": "Biosun Pharmed Company",
         "category": "Healthcare & Medical",
-        "year": 2019,
+        "year": "2019",
         "url": "https://www.biosunpharmed.com/"
+    },
+    {
+        "customer": "Pars Fanar Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.parsfanar.com/"
+    },
+    {
+        "customer": "Petro Arman Sanat Danial Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2025",
+        "url": "https://www.paasad.com/"
+    },
+    {
+        "customer": "Persian Gulf Petro Energy Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2025",
+        "url": "https://www.gpeco.com/"
+    },
+    {
+        "customer": "Kimia Pars Middle East Petrochemical Co.",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2022",
+        "url": "https://www.mekpco.ir/"
+    },
+    {
+        "customer": "Oghab Distribution Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2019",
+        "url": "http://pakhshoghab.com/"
+    },
+    {
+        "customer": "Padideh Shimi Gharb Company",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.psgraw.com/"
+    },
+    {
+        "customer": "Pardazesh Gostar Teif Company",
+        "category": "Technology & Startups",
+        "year": "2025",
+        "url": "https://www.pgttech.com/"
+    },
+    {
+        "customer": "Pooyesh Part Polymer Company",
+        "category": "Industry & Manufacturing",
+        "year": "2023",
+        "url": "https://www.3pco.co/"
+    },
+    {
+        "customer": "Pishro Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.pishroai.ir/"
+    },
+    {
+        "customer": "Saadat Irex Express Transport Co.",
+        "category": "Culture, Tourism & Services",
+        "year": "2025",
+        "url": "https://www.irex1633.ir/"
+    },
+    {
+        "customer": "National Refractory Materials Preparation & Production Co.",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.irrep.com/"
+    },
+    {
+        "customer": "Pard Tamin Mines Development Company",
+        "category": "Industry & Manufacturing",
+        "year": "2023",
+        "url": "https://www.iranparstamin.ir/"
+    },
+    {
+        "customer": "Emdad Mines Development and Equipment Co.",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.emdadmed.com/"
+    },
+    {
+        "customer": "Tosan Darou Company",
+        "category": "Healthcare & Medical",
+        "year": "2020",
+        "url": "https://www.tosandarou.com/"
+    },
+    {
+        "customer": "Delouseh Golden Mill Production Co.",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2020",
+        "url": "https://www.delveseh.com/"
+    },
+    {
+        "customer": "Energy Saz Production Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2022",
+        "url": "https://www.energysaz.com/"
+    },
+    {
+        "customer": "Khayyam Sepehr Steel Neishabour Production Co.",
+        "category": "Industry & Manufacturing",
+        "year": "2023",
+        "url": "https://www.ksnco.ir/"
+    },
+    {
+        "customer": "Jahan Tejarat Persia Mana Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2022",
+        "url": "https://www.jahan-tejarat.com/"
+    },
+    {
+        "customer": "Saipa Logistic Multimodal Transport Co.",
+        "category": "Culture, Tourism & Services",
+        "year": "2023",
+        "url": "https://www.saipalogistics.ir/"
+    },
+    {
+        "customer": "Abu Reyhan Pharmaceutical Company",
+        "category": "Healthcare & Medical",
+        "year": "2020",
+        "url": "https://www.aburaihan.com/"
+    },
+    {
+        "customer": "Raha Pharmaceutical Company",
+        "category": "Healthcare & Medical",
+        "year": "2025",
+        "url": "https://www.rahapharm.com/"
+    },
+    {
+        "customer": "Dax Technologies Company",
+        "category": "Technology & Startups",
+        "year": "2017",
+        "url": "https://www.dox.ae/"
+    },
+    {
+        "customer": "Danial Petro Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2024",
+        "url": "https://www.danialpetro.com/"
+    },
+    {
+        "customer": "Seven Blue Sky Trading Gate Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2025",
+        "url": "https://www.seven-bluesky.ir/"
+    },
+    {
+        "customer": "Deghat Sanjesh Azmoon Amirkabir Co.",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://www.deghatsanjesh.com/"
+    },
+    {
+        "customer": "Rahbaran Sabz Anoush Company (Espino & Talo Brand)",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2019",
+        "url": "https://www.anoshco.com/"
+    },
+    {
+        "customer": "Iran Do-Bot Collaborator Robot Company",
+        "category": "Technology & Startups",
+        "year": "2024",
+        "url": "https://www.ilyarobot.com/"
+    },
+    {
+        "customer": "Rasa Sanat Najafabad Company",
+        "category": "Industry & Manufacturing",
+        "year": "2024",
+        "url": "https://www.rasa-sanat.com/"
+    },
+    {
+        "customer": "Rahab Sakht Mahan Iranian Company",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.rozetgroup.com/"
+    },
+    {
+        "customer": "Ravansaz Arian Jam Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2024",
+        "url": "https://www.petroraj.com/"
+    },
+    {
+        "customer": "Zhalakeh Company",
+        "category": "Culture, Tourism & Services",
+        "year": "2025",
+        "url": "https://www.jalkeh.com/"
+    },
+    {
+        "customer": "Saraye Saman Fartak Company",
+        "category": "Culture, Tourism & Services",
+        "year": "2019",
+        "url": "https://www.fartakdesign.com/"
+    },
+    {
+        "customer": "Atieh Andishan Mes Investment Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2023",
+        "url": "https://www.atiehmes.com/"
+    },
+    {
+        "customer": "Isfahan Cement Company",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://www.isfahancement.com/"
+    },
+    {
+        "customer": "Bojnourd Cement Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.bojnordcement.com/"
+    },
+    {
+        "customer": "Shahab Tousheh Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.shahabtousheh.com/"
+    },
+    {
+        "customer": "Shahr Ab Shargh Tehran Company",
+        "category": "Government & NGOs",
+        "year": "2022",
+        "url": "https://www.zenixshop.com/"
+    },
+    {
+        "customer": "Natural Stone Export to Austria Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2019",
+        "url": "https://www.weltstein.at/"
+    },
+    {
+        "customer": "Sadr Arian Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.sadrarian.ir/"
+    },
+    {
+        "customer": "Arya Plastic Industries Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.hydroflume.com/"
     },
     {
         "customer": "Yek & Yek Food Industries Company",
         "category": "Food, Agriculture & Consumer Goods",
-        "year": 2013,
+        "year": "2013",
         "url": "https://www.1and1group.com/"
+    },
+    {
+        "customer": "Sayan Gostar Irsa Paper Industries Company",
+        "category": "Industry & Manufacturing",
+        "year": "2017",
+        "url": "https://www.sayanpaper.com/"
+    },
+    {
+        "customer": "Tarh va Palayesh Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2019",
+        "url": "https://www.tarhopalayesh.com/"
+    },
+    {
+        "customer": "Farhan Pishro Fanavaran Company",
+        "category": "Technology & Startups",
+        "year": "2025",
+        "url": "https://www.farhan-tech.com/"
+    },
+    {
+        "customer": "Fakour International Tehran Company",
+        "category": "Industry & Manufacturing",
+        "year": "2024",
+        "url": "https://www.fitco.ir/"
+    },
+    {
+        "customer": "Fanavar Sepehr Mechanic Espadana Company",
+        "category": "Technology & Startups",
+        "year": "2024",
+        "url": "https://www.sepehrmechanic.com/"
+    },
+    {
+        "customer": "Fanar Sazan Pishro Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.fanarsazanpishro.com/"
+    },
+    {
+        "customer": "Foujan Exom Company",
+        "category": "Technology & Startups",
+        "year": "2020",
+        "url": "https://www.fojhun.com/"
+    },
+    {
+        "customer": "Foulad Espiris Tejarat Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2021",
+        "url": "https://fa.espriss.com/"
+    },
+    {
+        "customer": "Foulad Bafgh Kasra Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.bafghkasra.com/"
+    },
+    {
+        "customer": "Kaveh Can Manufacturing Company",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://fa.kavehcan.com/"
+    },
+    {
+        "customer": "Kani Faravar Toos Company",
+        "category": "Industry & Manufacturing",
+        "year": "2022",
+        "url": "https://www.kanifaravartoos.com/"
+    },
+    {
+        "customer": "Kimia Shir Agri-Industry Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2023",
+        "url": "https://www.kimiadairy.com/"
     },
     {
         "customer": "National Shoe Company",
         "category": "E-Commerce & Retail",
-        "year": 2019,
+        "year": "2019",
         "url": "https://www.mellishoes.ir/"
     },
     {
-        "customer": "Goldaru Company",
+        "customer": "Shahre Industries and Mines Development Group",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.cityimd.org/"
+    },
+    {
+        "customer": "Green Mile Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2019",
+        "url": "https://www.greenmiletr.com/"
+    },
+    {
+        "customer": "Giah Gostar Firoozeh Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2024",
+        "url": "https://www.giahgostarco.com/"
+    },
+    {
+        "customer": "Lima Sanat Ati Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.limasanat.com/"
+    },
+    {
+        "customer": "Mobtakeran Sanat Foulad Amir Company",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.msaco.info/"
+    },
+    {
+        "customer": "Ardakan Steel Complex Company",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.arsco-steel.ir/"
+    },
+    {
+        "customer": "Makhzan Foulad Rafe Dabo Sanat Company",
+        "category": "Industry & Manufacturing",
+        "year": "2019",
+        "url": "https://www.daboosanat.com/"
+    },
+    {
+        "customer": "Modiran 21 Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2019",
+        "url": "https://www.modiran21.com/"
+    },
+    {
+        "customer": "Central Asset Management Company of Capital Market",
+        "category": "Finance, Business & Consulting",
+        "year": "2022",
+        "url": "https://www.sukuk.ir/"
+    },
+    {
+        "customer": "Chik Chik Sabz Poultry Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2019",
+        "url": "https://www.chickchick.ir/"
+    },
+    {
+        "customer": "Inci Industrial Equipment Consulting Co.",
+        "category": "Finance, Business & Consulting",
+        "year": "2019",
+        "url": "https://www.inecy.com/"
+    },
+    {
+        "customer": "Kian Management Consulting Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2020",
+        "url": "https://www.cf-company.com/"
+    },
+    {
+        "customer": "Shanul Farayand Consulting Engineers",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2022",
+        "url": "https://www.shanul.com/"
+    },
+    {
+        "customer": "Naderan Kar Motor Company",
+        "category": "Industry & Manufacturing",
+        "year": "2023",
+        "url": "https://www.naderan.co/"
+    },
+    {
+        "customer": "Pouya Logistic Shipping Agency & Forwarding Services",
+        "category": "Finance, Business & Consulting",
+        "year": "2022",
+        "url": "https://www.pouyalogistics.com/"
+    },
+    {
+        "customer": "Nordberg Company",
+        "category": "Culture, Tourism & Services",
+        "year": "2023",
+        "url": "https://www.nordberg.com.tr/"
+    },
+    {
+        "customer": "Novin Ilia Sanat Robot Company",
+        "category": "Technology & Startups",
+        "year": "2023",
+        "url": "https://www.novinilya.com/"
+    },
+    {
+        "customer": "Khayyam Shid Power Plant Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2025",
+        "url": "https://kh.ksnco.ir/"
+    },
+    {
+        "customer": "Havaye Nab Baran Company",
+        "category": "Technology & Startups",
+        "year": "2024",
+        "url": "https://www.havayenab.com/"
+    },
+    {
+        "customer": "Lireh Tea Import Company",
+        "category": "Finance, Business & Consulting",
+        "year": "2020",
+        "url": "https://www.lireh.com/"
+    },
+    {
+        "customer": "Varian Pharmed Company",
         "category": "Healthcare & Medical",
-        "year": 2019,
-        "url": "https://www.goldaruco.com/"
+        "year": "2025",
+        "url": "https://www.varianpharmed.com/"
+    },
+    {
+        "customer": "Yas Sepidvash Company",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2024",
+        "url": "https://fa.yassepidvash.com/"
+    },
+    {
+        "customer": "Happy and Healthy City",
+        "category": "Government & NGOs",
+        "year": "2021",
+        "url": "https://www.drhappy.org/"
+    },
+    {
+        "customer": "Asara Municipality",
+        "category": "Government & NGOs",
+        "year": "2025",
+        "url": "https://www.asara.ir/"
+    },
+    {
+        "customer": "Nazarabad Municipality of Alborz Province",
+        "category": "Government & NGOs",
+        "year": "2020",
+        "url": "https://www.nazarabad.ir/"
+    },
+    {
+        "customer": "National Chickpea Council of Iran",
+        "category": "Government & NGOs",
+        "year": "2019",
+        "url": "https://www.incp.ir/"
+    },
+    {
+        "customer": "Dasht Meshkat Food Industries",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2023",
+        "url": "https://meshkatfood.com/"
+    },
+    {
+        "customer": "Design for Fajr Jam Gas Refining Company",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2021",
+        "url": "https://fajrjam.ir/"
+    },
+    {
+        "customer": "German Kala Online Store",
+        "category": "E-Commerce & Retail",
+        "year": "2020",
+        "url": "https://www.germankala.ir/"
+    },
+    {
+        "customer": "Janta Luggage Store",
+        "category": "E-Commerce & Retail",
+        "year": "2023",
+        "url": "https://www.jantabag.com/"
+    },
+    {
+        "customer": "Zarifa Handicrafts Store",
+        "category": "E-Commerce & Retail",
+        "year": "2019",
+        "url": "https://www.zarifa.ir/"
+    },
+    {
+        "customer": "German House Home Appliances Store",
+        "category": "E-Commerce & Retail",
+        "year": "2020",
+        "url": "https://khanehalmani.com/"
+    },
+    {
+        "customer": "Rasan Mobile Phone and Laptop Repair & Sales",
+        "category": "E-Commerce & Retail",
+        "year": "2024",
+        "url": "https://www.mobilerasan.ir/"
+    },
+    {
+        "customer": "Qazvin for Qazvin Rasht Freeway Company",
+        "category": "Government & NGOs",
+        "year": "2020",
+        "url": "https://www.qrfreeway.ir/"
+    },
+    {
+        "customer": "Vicacafe Tehran Coffee & Cultural-Artistic Center",
+        "category": "Culture, Tourism & Services",
+        "year": "2020",
+        "url": "https://www.vcafetehran.com/"
+    },
+    {
+        "customer": "Association of Judicial E-Services Offices",
+        "category": "Government & NGOs",
+        "year": "2025",
+        "url": "https://www.kdke.ir/"
+    },
+    {
+        "customer": "Koocheh Ketab Bookstore",
+        "category": "E-Commerce & Retail",
+        "year": "2022",
+        "url": "https://www.koocheketab.ir/"
+    },
+    {
+        "customer": "Madar Dental Clinic",
+        "category": "Healthcare & Medical",
+        "year": "2025",
+        "url": "https://www.mothersdc.dental/"
+    },
+    {
+        "customer": "Dr. Maryam Zabeti Beauty Clinic",
+        "category": "Healthcare & Medical",
+        "year": "2021",
+        "url": "https://www.doctorzabeti.com/"
+    },
+    {
+        "customer": "Tutia Cosmetic Gallery",
+        "category": "E-Commerce & Retail",
+        "year": "2021",
+        "url": "https://www.totiabeauty.com/"
+    },
+    {
+        "customer": "Saba Electricity and Energy Group",
+        "category": "Energy, Oil & Petrochemicals",
+        "year": "2019",
+        "url": "https://www.sabapeg.ir/"
+    },
+    {
+        "customer": "Viva Pharmaceutical Group",
+        "category": "Healthcare & Medical",
+        "year": "2020",
+        "url": "https://www.vivagroupco.com/"
+    },
+    {
+        "customer": "Arsham Industrial Group",
+        "category": "Industry & Manufacturing",
+        "year": "2025",
+        "url": "https://www.arsham-group.com/"
+    },
+    {
+        "customer": "Tabiat-e Mihan Industrial Group",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2021",
+        "url": "https://tm-ig.webexir.net/"
+    },
+    {
+        "customer": "Actoverco Pharmaceutical Factories Group",
+        "category": "Healthcare & Medical",
+        "year": "2023",
+        "url": "https://www.actoverco.com/"
+    },
+    {
+        "customer": "Hygiene Products for Pargas Teb Company",
+        "category": "Healthcare & Medical",
+        "year": "2021",
+        "url": "https://www.serino-detergent.com/"
+    },
+    {
+        "customer": "Southern Aluminum Complex",
+        "category": "Industry & Manufacturing",
+        "year": "2020",
+        "url": "https://www.salcocomplex.com/"
+    },
+    {
+        "customer": "Bam Higher Education Complex",
+        "category": "Education & Research",
+        "year": "2022",
+        "url": "https://www.bam.ac.ir/"
+    },
+    {
+        "customer": "Daneshmand Educational Complex",
+        "category": "Education & Research",
+        "year": "2023",
+        "url": "https://www.daneshmandsch.ir/"
+    },
+    {
+        "customer": "Arvand Steel Complex",
+        "category": "Industry & Manufacturing",
+        "year": "2021",
+        "url": "https://www.arvandnovin.org/"
+    },
+    {
+        "customer": "Zarrin Foulad Agri-Industry Complex",
+        "category": "Food, Agriculture & Consumer Goods",
+        "year": "2025",
+        "url": "https://zf.ksnco.ir/"
+    },
+    {
+        "customer": "Hoorzad Online Magazine",
+        "category": "Culture, Tourism & Services",
+        "year": "2020",
+        "url": "https://www.horzad.org/"
+    },
+    {
+        "customer": "Homa Educational Center",
+        "category": "Education & Research",
+        "year": "2019",
+        "url": "https://www.homacollege.ir/"
+    },
+    {
+        "customer": "National Laser Science and Technology Center of Iran",
+        "category": "Education & Research",
+        "year": "2019",
+        "url": "https://www.inlc.ir/"
+    },
+    {
+        "customer": "Omid Hamedan Infertility Center",
+        "category": "Healthcare & Medical",
+        "year": "2020",
+        "url": "https://www.hamedanivf.ir/"
+    },
+    {
+        "customer": "Mehr Niousha Rehabilitation Institute",
+        "category": "Healthcare & Medical",
+        "year": "2019",
+        "url": "https://www.newsha.ir/"
+    },
+    {
+        "customer": "Institute for the Development of Culture and Art",
+        "category": "Culture, Tourism & Services",
+        "year": "2023",
+        "url": "https://www.tfarhang.ir/"
+    },
+    {
+        "customer": "Rafiei کرمان Motor Dealership",
+        "category": "E-Commerce & Retail",
+        "year": "2023",
+        "url": "https://www.rafieemotor.com/"
+    },
+    {
+        "customer": "Shayan Hotel Kish",
+        "category": "Culture, Tourism & Services",
+        "year": "2025",
+        "url": "https://www.shayan-hotel.com/"
+    },
+    {
+        "customer": "Tose'e Tarabar Iranian Holding",
+        "category": "Finance, Business & Consulting",
+        "year": "2019",
+        "url": "https://www.ttico.ir/"
+    },
+    {
+        "customer": "Ghazal Tose'e Holding",
+        "category": "Finance, Business & Consulting",
+        "year": "2022",
+        "url": "https://www.ghazaalholding.com/"
     }
 ]
