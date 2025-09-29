@@ -3,11 +3,11 @@
         "client": "Mobarakeh Steel Company",
         "industry": "Industry & Manufacturing",
         "year": "2013",
-        "about": "",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""
+        "about": "The largest steel maker of MENA (Middle East & Northern Africa) region.",
+        "challenge": "As one of the largest industrial complexes in the region, the company's internal operational and communication workflows were highly complex and relied on a mix of legacy systems and paper-based processes. This created significant administrative bottlenecks, slowed down information sharing between departments, and made data tracking inefficient.",
+        "mission": "My mission was to manage the end-to-end development of a secure, centralized internal web portal. The goal was to digitize and streamline key operational processes, improve internal communications across their vast workforce, and create a single source of truth for critical operational data.",
+        "strategy": "I led a dedicated project team and worked closely with various department heads at the steel company to map out their complex workflows. We focused on building a robust, scalable, and highly secure back-end architecture to handle their extensive data needs. The project was executed in phases to ensure a smooth transition and user adoption without disrupting daily operations.",
+        "outcome": "The new portal successfully replaced multiple inefficient systems, automating dozens of manual processes and significantly improving the speed of internal communications. This project was a key component of a company-wide initiative that contributed to reduction in overall company overhead by increasing operational efficiency."
     },
     {
         "client": "Sharif University of Technology",
@@ -17,7 +17,7 @@
         "challenge": "The university’s student services were fragmented across outdated systems, causing administrative bottlenecks and a poor user experience.",
         "mission": "I was tasked with leading the complete technical lifecycle for a new, large-scale portal to unify all student services onto a single, secure platform.",
         "strategy": "I directed a team of 15+ engineers, implemented a full Agile/Scrum framework, and provided strategic oversight for the back-end architecture.",
-        "outcome": "The project was a major success, and the processes established became the new company standard, leading to a <strong class=\"accent-color\">40% faster project execution speed</strong> and an <strong class=\"accent-color\">86% improvement in overall project quality</strong>."
+        "outcome": "The project was a major success, and the processes established became the new company standard, leading to improvement in overall project quality</strong>."
     },
     {
         "client": "Ghaem International Hospital",
@@ -33,29 +33,32 @@
         "client": "Tefal Brand in Iran",
         "industry": "E-Commerce & Retail",
         "year": "2019",
-        "about": "A leading e-commerce platform for the Tefal brand in Iran.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""    },
+        "about": "The official online presence for the global cookware and appliance brand.",
+        "challenge": "The existing digital presence for Tefal in Iran was outdated and did not align with the brand's international standards for quality and user experience. It lacked a modern e-commerce platform, which limited online sales potential and failed to properly showcase their extensive product catalog to online customers.",
+        "mission": "My mission was to manage the complete overhaul of Tefal's digital platform in Iran. The primary goal was to develop a high-end, brand-compliant e-commerce website that would provide a seamless shopping experience for customers and serve as a central hub for product information and marketing.",
+        "strategy": "I led a team of designers and engineers to create a user-centric online store. We collaborated closely with the client's marketing team to ensure the new website strictly adhered to Tefal's global brand guidelines. My focus was on implementing a secure and reliable e-commerce system, from product showcases and inventory management to the final payment gateway, ensuring a trustworthy experience for customers.",
+        "outcome": "The new website successfully launched, providing a modern, official, and user-friendly online store for Tefal in Iran. It significantly improved brand perception and provided a robust platform for growing their online sales channel."
+	},
     {
         "client": "Isfahan Water & Wastewater Co.",
         "industry": "Government & NGOs",
         "year": "2020",
         "about": "A leading government organization for water and sewage services in Isfahan.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""    },
+        "challenge": "The company's public-facing website was outdated, making it difficult for citizens to perform essential tasks like paying bills online, reporting service issues, or finding information on water shortages and service disruptions. This resulted in high call volumes to their support centers and a poor user experience for the public.",
+        "mission": "My mission was to oversee the complete redesign and development of a modern, user-centric web portal. The primary goal was to create an accessible, reliable, and secure platform that empowered citizens with self-service tools and improved the company's ability to communicate with the public.",
+        "strategy": "I managed the project lifecycle, ensuring the new platform met strict governmental standards for security and accessibility. My team focused on building a robust new customer portal and a secure, integrated online payment system. We designed a clear information architecture to ensure that service announcements were easy to find, especially during emergencies.",
+        "outcome": "The new portal successfully launched, providing a vital digital service for the citizens of Isfahan. It streamlined the process for online payments and service requests, leading to increased user satisfaction and a reduced load on their support staff. The implementation of this new customer portal was a key project in the initiative that increased our company's revenue from support services."
+	},
     {
         "client": "West Oil and Gas Production Co.",
         "industry": "Energy & Petrochemicals",
         "year": "2020",
         "about": "A key subsidiary of the National Iranian Oil Company managing critical energy infrastructure.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""    },
+        "challenge": "The company managed critical operational data using a mix of outdated spreadsheets and email, which created security vulnerabilities and slowed down access to timely information for decision-makers.",
+        "mission": "My mission was to lead the development of a secure, centralized internal portal that would replace the inefficient manual systems and provide managers with reliable, real-time access to operational data.",
+        "strategy": "I managed the project's full lifecycle, from gathering requirements with various department heads to overseeing a phased deployment that wouldn't interrupt their work. We prioritized a user-friendly interface to ensure quick adoption by staff and a robust back-end to guarantee data integrity and security.",
+        "outcome": "The new portal successfully replaced the manual spreadsheet system, leading to significantly faster data retrieval times and a measurable reduction in data entry errors. It provided a secure, single source of truth for operational information, empowering managers to make quicker, more informed decisions. The platform was highly praised by department heads for its stability and ease of use."
+	},
     {
         "client": "Sadr Tamin Company",
         "industry": "Finance, Business & Consulting",
@@ -64,26 +67,27 @@
         "challenge": "",
         "mission": "",
         "strategy": "",
-        "outcome": ""    },
+        "outcome": ""
+	},
     {
         "client": "National Shoe Company",
         "industry": "E-Commerce & Retail",
         "year": "2019",
         "about": "One of Iran's oldest and most well-known footwear manufacturers.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""
+        "challenge": "Despite its strong historical brand, the company's digital presence was outdated and did not reflect its legacy. The previous website lacked a modern e-commerce platform, which prevented them from capturing the growing online market and engaging with a younger, digital-native audience.",
+        "mission": "My mission was to manage the creation of a flagship e-commerce website that would honor the company's heritage while providing a modern, seamless shopping experience for customers. The key objective was to build a powerful online sales channel to drive digital revenue.",
+        "strategy": "I led our multidisciplinary team to build a platform focused on brand storytelling and user experience. We designed a clean, intuitive interface that made it easy for customers to browse products and make purchases. My role was to oversee the project from the initial design concepts through to the technical implementation of the secure e-commerce back-end, inventory management, and payment systems.",
+        "outcome": "The new website successfully launched, providing National Shoe Company with a robust, modern e-commerce platform. It revitalized their online brand image and opened up a significant new revenue stream by successfully translating their respected offline brand into the digital marketplace."
     },
     {
         "client": "1&1 Food Industries Company",
         "industry": "Food, Agriculture & Consumer Goods",
         "year": "2013",
         "about": "A major producer of canned foods, pickles, and sauces.",
-        "challenge": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""
+        "challenge": "The company's existing corporate website was outdated and did not accurately reflect their market leadership or the quality of their products. It failed to effectively tell the company's story, showcase their extensive product line, or serve as an engaging platform for consumers and potential business partners.",
+        "mission": "My mission was to manage the development of a new, modern corporate website that would serve as the digital face of the 1&1 brand. The goal was to create a visually appealing and informative platform that would strengthen their brand identity and improve public and B2B engagement.",
+        "strategy": "I led our team to create a content-rich website focused on high-quality visuals and brand storytelling. We designed sections to highlight the company's long history, their commitment to quality, and their full range of products. The platform was built to be fast, responsive, and easy to navigate for all users, from consumers looking for recipes to distributors seeking company information.",
+        "outcome": "The new website successfully elevated the online presence of the 1&1 brand, bringing it in line with their excellent real-world reputation. It provided a polished and professional platform to engage with their audience and strengthen their position as a market leader in the food industry."
     },
     {
         "client": "Polymer & Petrochemical Institute",
@@ -94,14 +98,5 @@
         "mission": "",
         "strategy": "",
         "outcome": ""
-    },
-    {
-        "client": "",
-        "industry": "",
-        "year": "",
-        "about": "",
-        "mission": "",
-        "strategy": "",
-        "outcome": ""
-    }    
+    }  
 ]
