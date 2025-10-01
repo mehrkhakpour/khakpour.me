@@ -8,7 +8,7 @@
         "mission": "My mission was to manage the end-to-end development of a secure, centralized internal web portal. The goal was to digitize and streamline key operational processes, improve internal communications across their vast workforce, and create a single source of truth for critical operational data.",
         "strategy": "I led a dedicated project team and worked closely with various department heads at the steel company to map out their complex workflows. We focused on building a robust, scalable, and highly secure back-end architecture to handle their extensive data needs. The project was executed in phases to ensure a smooth transition and user adoption without disrupting daily operations.",
         "outcome": "The new portal successfully replaced multiple inefficient systems, automating dozens of manual processes and significantly improving the speed of internal communications. This project was a key component of a company-wide initiative that contributed to reduction in overall company overhead by increasing operational efficiency.",
-        "projectvalue": "~1.1 million USD"
+        "projectvalue": "~1.4 million USD"
     },
     {
         "client": "Sharif University of Technology",
@@ -19,8 +19,19 @@
         "mission": "I was tasked with leading the complete technical lifecycle for a new, large-scale portal to unify all student services onto a single, secure platform.",
         "strategy": "I directed a team of 15+ engineers, implemented a full Agile/Scrum framework, and provided strategic oversight for the back-end architecture.",
         "outcome": "The project was a major success, and the processes established became the new company standard, leading to improvement in overall project quality</strong>.",
-        "projectvalue": "~1.3 million USD"
+        "projectvalue": "~960,000 USD"
     },
+    {
+        "client": "Isfahan Water & Wastewater Co.",
+        "industry": "Government & NGOs",
+        "year": "2020",
+        "about": "A leading government organization for water and sewage services in Isfahan.",
+        "challenge": "The company's public-facing website was outdated, making it difficult for citizens to perform essential tasks like paying bills online, reporting service issues, or finding information on water shortages and service disruptions. This resulted in high call volumes to their support centers and a poor user experience for the public.",
+        "mission": "My mission was to oversee the complete redesign and development of a modern, user-centric web portal. The primary goal was to create an accessible, reliable, and secure platform that empowered citizens with self-service tools and improved the company's ability to communicate with the public.",
+        "strategy": "I managed the project lifecycle, ensuring the new platform met strict governmental standards for security and accessibility. My team focused on building a robust new customer portal and a secure, integrated online payment system. We designed a clear information architecture to ensure that service announcements were easy to find, especially during emergencies.",
+        "outcome": "The new portal successfully launched, providing a vital digital service for the citizens of Isfahan. It streamlined the process for online payments and service requests, leading to increased user satisfaction and a reduced load on their support staff. The implementation of this new customer portal was a key project in the initiative that increased our company's revenue from support services.",
+        "projectvalue": "~1.2 million USD"
+	},	
     {
         "client": "Ghaem International Hospital",
         "industry": "Healthcare & Medical",
@@ -42,17 +53,6 @@
         "strategy": "I led a team of designers and engineers to create a user-centric online store. We collaborated closely with the client's marketing team to ensure the new website strictly adhered to Tefal's global brand guidelines. My focus was on implementing a secure and reliable e-commerce system, from product showcases and inventory management to the final payment gateway, ensuring a trustworthy experience for customers.",
         "outcome": "The new website successfully launched, providing a modern, official, and user-friendly online store for Tefal in Iran. It significantly improved brand perception and provided a robust platform for growing their online sales channel.",
         "projectvalue": "~320,000 USD"
-	},
-    {
-        "client": "Isfahan Water & Wastewater Co.",
-        "industry": "Government & NGOs",
-        "year": "2020",
-        "about": "A leading government organization for water and sewage services in Isfahan.",
-        "challenge": "The company's public-facing website was outdated, making it difficult for citizens to perform essential tasks like paying bills online, reporting service issues, or finding information on water shortages and service disruptions. This resulted in high call volumes to their support centers and a poor user experience for the public.",
-        "mission": "My mission was to oversee the complete redesign and development of a modern, user-centric web portal. The primary goal was to create an accessible, reliable, and secure platform that empowered citizens with self-service tools and improved the company's ability to communicate with the public.",
-        "strategy": "I managed the project lifecycle, ensuring the new platform met strict governmental standards for security and accessibility. My team focused on building a robust new customer portal and a secure, integrated online payment system. We designed a clear information architecture to ensure that service announcements were easy to find, especially during emergencies.",
-        "outcome": "The new portal successfully launched, providing a vital digital service for the citizens of Isfahan. It streamlined the process for online payments and service requests, leading to increased user satisfaction and a reduced load on their support staff. The implementation of this new customer portal was a key project in the initiative that increased our company's revenue from support services.",
-        "projectvalue": "~1.2 million USD"
 	},
     {
         "client": "West Oil and Gas Production Co.",
