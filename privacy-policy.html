@@ -172,6 +172,27 @@
             <p>&copy; 2025 Mehrdad Khakpour | <a href="/privacy-policy" class="hover:text-[#419a9f] underline">Privacy Policy</a></p>
         </div>
     </footer>
-    
+    <script>
+	  document.addEventListener('DOMContentLoaded', function() {
+		// انتخاب دکمه و منوی موبایل
+		const mobileMenuButton = document.getElementById('mobile-menu-button');
+		const mobileMenu = document.getElementById('mobile-menu');
+		const header = document.querySelector('header'); // انتخاب هدر
+
+		// افزودن رویداد کلیک به دکمه
+		mobileMenuButton.addEventListener('click', function(event) {
+		  event.stopPropagation(); // جلوگیری از بسته شدن فوری منو
+		  mobileMenu.classList.toggle('hidden');
+		});
+
+		// بستن منو با کلیک بیرون از آن
+		document.addEventListener('click', function(event) {
+			// چک میکنیم که منو باز باشد و کلیک بیرون از هدر باشد
+			if (!mobileMenu.classList.contains('hidden') && !header.contains(event.target)) {
+				mobileMenu.classList.add('hidden');
+			}
+		});
+	  });
+	</script>
 </body>
 </html>
